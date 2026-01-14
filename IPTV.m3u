@@ -11,7 +11,7 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
 http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8
 
 #Развлекательные
-#EXTINF:-1 tvg-id="tnt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Logo_tnt.png/960px-Logo_tnt.png" group-title="Развлекательные",ТНТ
+#EXTINF:-1 tvg-id="ТНТ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Logo_tnt.png/960px-Logo_tnt.png" group-title="Развлекательные",ТНТ
 http://95.66.188.74/TNT_HD/mono.m3u8
 
 #EXTINF:-1 tvg-id="tnt4-international" tvg-logo="https://upload.wikimedia.org/wikipedia/ru/6/6c/%D0%A2%D0%9D%D0%A24_%28%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D1%81_2023_%D0%B3%D0%BE%D0%B4%D0%B0%29.png" group-title="Развлекательные",ТНТ4
@@ -22,3 +22,4 @@ https://edge02r.mediavitrina.ru/hls-livef2/ctc/index.m3u8?token=v2.LU9LGGJfCr2sM
 
 #EXTINF:-1 tvg-id="2x2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/2x2_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB._%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.jpg/960px-2x2_%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB._%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF.jpg" group-title="Развлекательные",2X2
 https://river-5-540.rtbcdn.ru/stream/genetta-319.m9.rutube.ru/ySokNIjMRnE7r3I_G_C04Q/1769003035/c5395b26d65d3461840b4c2f15c726b6/1080p_stream.m3u8
+
